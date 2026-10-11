@@ -45,7 +45,7 @@ Ce projet met en pratique les principales fonctionnalités du développement web
 ### 1. Cloner le projet
 
 ```bash
-git clone URL_DE_TON_DEPOT
+git clone https://github.com/Jurah-git/gestion-clients.git
 cd gestion-clients
 ```
 
